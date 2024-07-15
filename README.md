@@ -11,11 +11,6 @@ This project uses the Gemini API to extract data from invoices in multiple langu
 
 ## Requirements
 
-- Python 3.7+
-- Google Cloud account with Gemini API access
+- Python 3.10+(for better compatablility with gemini)
+- Google account with Gemini API access
 - Required Python packages (see `requirements.txt`)
-
-## Setup
-
-1. Clone this repository
-2. Install dependencies:
