@@ -14,3 +14,9 @@ This project uses the Gemini API to extract data from invoices in multiple langu
 - Python 3.10+(for better compatablility with gemini)
 - Google account with Gemini API access
 - Required Python packages (see `requirements.txt`)
+
+To obtain a Gemini API key:
+- Visit https://makersuite.google.com/app/apikey
+- Create a new API key
+- Store the API key securely
+
